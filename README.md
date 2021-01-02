@@ -6,3 +6,4 @@ The ipynb files are as follows:
 1. **RPC.ipynb**: Simple image classification with fastai library, an introduction
 2. **RPC-Pixel-sim.ipynb**: Image classification with Pixel Similarity Approach
 3. **RPC SGD.ipynb**: Image classification with Stochastic Gradient Descent and Cross Entropy Loss function
+4. **RPC-Learning Rate, Progressive Resizing Approach.ipynb** : Image Classification, state of the art training with learning rate finder, progressing resizing approach.
