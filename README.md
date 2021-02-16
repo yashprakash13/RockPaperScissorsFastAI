@@ -1,6 +1,13 @@
-## Rock Paper Scissors Dataset Image Classification with FastAI from Scratch
+## Rock Paper Scissors Dataset Image Classification with FastAI
 
 These notebooks contain the code from the medium blog articles from the series: [A Fast Introduction to Fastai-My Experience.](https://towardsdatascience.com/a-fast-introduction-to-fastai-my-experience-b18d4457f6a5?source=your_stories_page-------------------------------------)
+
+Throughout these tutorials, we learn:
+- Transfer learning for image classification
+- Stochastic Gradient Descent from scratch
+- Image clasification the naive way
+- Text classification with transfer learning
+
 
 The ipynb files are as follows: 
 1. **RPC.ipynb**: Simple image classification with fastai library, an introduction
