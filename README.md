@@ -2,11 +2,12 @@
 
 These notebooks contain the code from the medium blog articles from the series: [A Fast Introduction to Fastai-My Experience.](https://towardsdatascience.com/a-fast-introduction-to-fastai-my-experience-b18d4457f6a5?source=your_stories_page-------------------------------------)
 
-Throughout these tutorials, we learn:
+Throughout these tutorials, I write about:
 - Transfer learning for image classification
 - Stochastic Gradient Descent from scratch
 - Image clasification the naive way
 - Text classification with transfer learning
+- Making the frontend of the project easily with streamlit
 
 
 The ipynb files are as follows: 
@@ -17,4 +18,12 @@ The ipynb files are as follows:
 5. **Text Sentiment Classification(Covid-19 Tweets).ipynb** : Text Classification in just 20 lines of code
 6. An interactive web app made with streamlit with the ability to run image classification on any uploaded image. 
 
-Next up: Contanerising the app with Docker.
+
+**Next up: Contanerising the app with Docker.**
+
+
+## Streamlit application
+The web app built through streamlit is now live. The code is located in [RockPaperScissorsClassification](https://github.com/yashprakash13/RockPaperScissorsFastAI/tree/main/RockPaperScissorsClassification) folder. 
+
+### Screenshot of the app in action:
+![](https://github.com/yashprakash13/RockPaperScissorsFastAI/blob/main/screenshots/Screenshot%202021-02-16%20at%2011.24.57%20AM.png)
