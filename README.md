@@ -22,7 +22,7 @@ The ipynb files are as follows:
 **Next up: Contanerising the app with Docker.**
 
 
-## Streamlit application
+## Streamlit web app
 The web app built through streamlit is now live. The code is located in [RockPaperScissorsClassification](https://github.com/yashprakash13/RockPaperScissorsFastAI/tree/main/RockPaperScissorsClassification) folder. 
 
 ### Screenshot of the app in action:
