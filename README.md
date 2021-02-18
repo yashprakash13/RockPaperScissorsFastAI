@@ -1,4 +1,4 @@
-## Rock Paper Scissors Dataset Image Classification with FastAI
+## Rock Paper Scissors Image Classification with FastAI
 
 These notebooks contain the code from the medium blog articles from the series: [A Fast Introduction to Fastai-My Experience.](https://towardsdatascience.com/a-fast-introduction-to-fastai-my-experience-b18d4457f6a5?source=your_stories_page-------------------------------------)
 
