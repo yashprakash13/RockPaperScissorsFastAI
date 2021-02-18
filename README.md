@@ -30,11 +30,11 @@ The web app built through streamlit is now live. The code is located in [RockPap
 
 ## Steps to build and run the app
 1. Install [Docker on your machine](https://docker.com).
-2. In the root directory of the terminal, run:
+2. In the root directory of the terminal, run to build the image:
 ```bash
 docker build --tag rps:1.0 .
 ```
-3. Lastly, run: 
+3. Lastly, run the app with: 
 ```bash
 docker run --publish 8501:8501 -it rps:1.0
 ```
