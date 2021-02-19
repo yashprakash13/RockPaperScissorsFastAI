@@ -8,6 +8,7 @@ Throughout these tutorials, I write about:
 - Image clasification the naive way
 - Text classification with transfer learning
 - Making the frontend of the project easily with streamlit
+- Containerizing the app with Docker
 
 
 The ipynb files are as follows: 
