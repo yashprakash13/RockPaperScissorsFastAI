@@ -29,7 +29,7 @@ The web app built through streamlit is now live. The code is located in [RockPap
 ### Screenshot of the app in action:
 ![](https://github.com/yashprakash13/RockPaperScissorsFastAI/blob/main/screenshots/Screenshot%202021-02-16%20at%2011.24.57%20AM.png)
 
-## Steps to build and run the app
+## Steps to build and run the Streamlit web app
 1. Install [Docker on your machine](https://docker.com).
 2. In the root directory of the terminal, run to build the image:
 ```bash
@@ -39,7 +39,7 @@ docker build --tag rps:1.0 .
 ```bash
 docker run --publish 8501:8501 -it rps:1.0
 ```
-
+Open your browser and go to http://localhost:8501/.
 
 
 
