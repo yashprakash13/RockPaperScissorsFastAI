@@ -1,4 +1,6 @@
 ## Rock Paper Scissors Image Classification with FastAI
+![](https://img.shields.io/badge/Powered%20by%20%E2%9D%A4%EF%B8%8F-Python-red?style=for-the-badge)
+![](https://img.shields.io/badge/Built%20with-Fastai-brightgreen?style=for-the-badge)
 
 These notebooks contain the code from the medium blog articles from the series: [A Fast Introduction to Fastai-My Experience.](https://towardsdatascience.com/a-fast-introduction-to-fastai-my-experience-b18d4457f6a5?source=your_stories_page-------------------------------------)
 
