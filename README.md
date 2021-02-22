@@ -4,6 +4,7 @@
 
 These notebooks contain the code from the medium blog articles from the series: [A Fast Introduction to Fastai-My Experience.](https://towardsdatascience.com/a-fast-introduction-to-fastai-my-experience-b18d4457f6a5?source=your_stories_page-------------------------------------)
 
+### Medium Article Series
 Throughout these tutorials, I write about:
 - Transfer learning for image classification
 - Stochastic Gradient Descent from scratch
@@ -13,6 +14,7 @@ Throughout these tutorials, I write about:
 - Containerizing the app with Docker
 
 
+### Notebooks
 The ipynb files are as follows: 
 1. **RPC.ipynb**: Simple image classification with fastai library, an introduction
 2. **RPC-Pixel-sim.ipynb**: Image classification with Pixel Similarity Approach
@@ -25,13 +27,13 @@ The ipynb files are as follows:
 **Next up: Contanerising the app with Docker.**
 
 
-## Streamlit web app
+### The streamlit web app
 The web app built through streamlit is now live. The code is located in [RockPaperScissorsClassification](https://github.com/yashprakash13/RockPaperScissorsFastAI/tree/main/RockPaperScissorsClassification) folder. 
 
 ### Screenshot of the app in action:
 ![](https://github.com/yashprakash13/RockPaperScissorsFastAI/blob/main/screenshots/Screenshot%202021-02-16%20at%2011.24.57%20AM.png)
 
-## Steps to build and run the Streamlit web app
+### Steps to build and run the Streamlit web app
 1. Install [Docker on your machine](https://docker.com).
 2. In the root directory of the terminal, run to build the image:
 ```bash
