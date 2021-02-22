@@ -15,7 +15,7 @@ This project began with a viral article about my first experience with Fastai. T
 - [Containerizing the app with Docker](https://pub.towardsai.net/how-to-dockerize-your-data-science-project-a-quick-guide-b6fa2d6a8ba1?source=your_stories_page-------------------------------------)
 
 
-### Notebooks
+### Notebooks and code
 The ipynb files are as follows: 
 1. **RPC.ipynb**: Simple image classification with fastai library, an introduction
 2. **RPC-Pixel-sim.ipynb**: Image classification with Pixel Similarity Approach
@@ -23,9 +23,7 @@ The ipynb files are as follows:
 4. **RPC-Learning Rate, Progressive Resizing Approach.ipynb** : Image Classification, state of the art training with learning rate finder, progressing resizing approach.
 5. **Text Sentiment Classification(Covid-19 Tweets).ipynb** : Text Classification in just 20 lines of code
 6. An interactive web app made with streamlit with the ability to run image classification on any uploaded image. 
-
-
-**Next up: Contanerising the app with Docker.**
+7. Contanerising the streamlit app with Docker.
 
 
 ### The streamlit web app
