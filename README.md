@@ -5,13 +5,14 @@
 These notebooks contain the code from the medium blog articles from the series: [A Fast Introduction to Fastai-My Experience.](https://towardsdatascience.com/a-fast-introduction-to-fastai-my-experience-b18d4457f6a5?source=your_stories_page-------------------------------------)
 
 ### Medium Article Series
-Throughout these tutorials, I write about:
-- Transfer learning for image classification
-- Stochastic Gradient Descent from scratch
-- Image clasification the naive way
-- Text classification with transfer learning
-- Making the frontend of the project easily with streamlit
-- Containerizing the app with Docker
+This project began with a viral article about my first experience with Fastai. Then it evolved. Troughout these tutorials, I write about:
+- [Transfer learning for image classification](https://towardsdatascience.com/a-fast-introduction-to-fastai-my-experience-b18d4457f6a5?source=your_stories_page-------------------------------------)
+- [Stochastic Gradient Descent from scratch](https://towardsdatascience.com/fastai-multi-class-classification-with-stochastic-gradient-descent-from-scratch-8410fe3fea22?source=your_stories_page-------------------------------------)
+- [Image clasification the naive way](https://towardsdatascience.com/fastai-exploring-the-training-process-the-pixel-similarity-approach-74bbdb844509?source=your_stories_page-------------------------------------)
+- [Making a state of the art image classification model with learning Rate Finder and progressive resizing approach for getting the best results in a short amount of time](https://towardsdatascience.com/how-to-make-a-state-of-the-art-model-with-fastai-bd11e168b214?source=your_stories_page-------------------------------------)
+- [Text classification with transfer learning](https://towardsdatascience.com/text-classification-in-just-20-lines-of-code-8baf9c2a0a53?source=your_stories_page-------------------------------------)
+- [Making the frontend of the project easily with streamlit](https://towardsdatascience.com/a-guide-to-streamlit-frontend-for-data-science-made-simpler-c6dda54e3183?source=your_stories_page-------------------------------------)
+- [Containerizing the app with Docker](https://pub.towardsai.net/how-to-dockerize-your-data-science-project-a-quick-guide-b6fa2d6a8ba1?source=your_stories_page-------------------------------------)
 
 
 ### Notebooks
