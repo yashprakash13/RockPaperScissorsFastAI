@@ -42,7 +42,7 @@ docker build --tag rps:1.0 .
 ```bash
 docker run --publish 8501:8501 -it rps:1.0
 ```
-Open your browser and go to http://localhost:8501/.
+Open your browser and go to http://localhost:8501/ and play with the app!
 
 
 
