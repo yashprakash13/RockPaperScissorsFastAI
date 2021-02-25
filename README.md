@@ -2,7 +2,9 @@
 ![](https://img.shields.io/badge/Powered%20by-Python%203.9.1-red?style=for-the-badge)
 ![](https://img.shields.io/badge/Built%20with-Fastai-brightgreen?style=for-the-badge) ![](https://img.shields.io/badge/-streamlit-orange?style=for-the-badge) ![](https://img.shields.io/badge/-Docker-blue?style=for-the-badge)
 
-These notebooks contain the code from the medium blog articles from the series: [A Fast Introduction to Fastai-My Experience.](https://towardsdatascience.com/a-fast-introduction-to-fastai-my-experience-b18d4457f6a5?source=your_stories_page-------------------------------------)
+An end-to-end deep learning image classifier app built with Fastai and Pytorch.
+
+The notebooks contain the code from the articles from the series: [A Fast Introduction to Fastai-My Experience.](https://towardsdatascience.com/a-fast-introduction-to-fastai-my-experience-b18d4457f6a5?source=your_stories_page-------------------------------------)
 
 ### Medium Article Series
 This project began with a viral article about my first experience with Fastai. Then it evolved. Troughout these tutorials, I write about:
