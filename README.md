@@ -11,7 +11,6 @@ The notebooks contain the code from the articles from the series: [A Fast Introd
 - [Notebooks and Code for the project](#notebooks-and-code)
 - [Web app showcasing the project](#the-streamlit-web-app)
 - [Screenshots of the app in action](#screenshot-of-the-app-in-action)
-)
 - [Run the app on your machine](#steps-to-build-and-run-the-streamlit-web-app)
 
 ### Medium Article Series
@@ -32,8 +31,10 @@ The ipynb files are as follows:
 3. **RPC SGD.ipynb**: Image classification with Stochastic Gradient Descent and Cross Entropy Loss function
 4. **RPC-Learning Rate, Progressive Resizing Approach.ipynb** : Image Classification, state of the art training with learning rate finder, progressing resizing approach.
 5. **Text Sentiment Classification(Covid-19 Tweets).ipynb** : Text Classification in just 20 lines of code
-6. An interactive web app made with streamlit with the ability to run image classification on any uploaded image. 
-7. Contanerising the streamlit app with Docker.
+
+The Folder **RockPaperScissorsClassification** contains:
+1. An interactive web app made with streamlit with the ability to run image classification on any uploaded image. 
+2. Contanerising the streamlit app with Docker.
 
 
 ### The streamlit web app
