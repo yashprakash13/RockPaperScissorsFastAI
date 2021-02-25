@@ -10,7 +10,8 @@ The notebooks contain the code from the articles from the series: [A Fast Introd
 - [Blog post series for the project](#medium-article-series)
 - [Notebooks and Code for the project](#notebooks-and-code)
 - [Web app showcasing the project](#the-streamlit-web-app)
-- [Screenshots of the app in action](#)
+- [Screenshots of the app in action](#screenshot-of-the-app-in-action)
+)
 - [Run the app on your machine](#steps-to-build-and-run-the-streamlit-web-app)
 
 ### Medium Article Series
@@ -38,7 +39,7 @@ The ipynb files are as follows:
 ### The streamlit web app
 The web app built through streamlit is now live. The code is located in [RockPaperScissorsClassification](https://github.com/yashprakash13/RockPaperScissorsFastAI/tree/main/RockPaperScissorsClassification) folder. 
 
-### Screenshot of the app in action:
+### Screenshot of the app in action
 ![](https://github.com/yashprakash13/RockPaperScissorsFastAI/blob/main/screenshots/Screenshot%202021-02-16%20at%2011.24.57%20AM.png)
 
 ### Steps to build and run the Streamlit web app
