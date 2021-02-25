@@ -6,6 +6,13 @@ An end-to-end deep learning image classifier app built with Fastai and Pytorch.
 
 The notebooks contain the code from the articles from the series: [A Fast Introduction to Fastai-My Experience.](https://towardsdatascience.com/a-fast-introduction-to-fastai-my-experience-b18d4457f6a5?source=your_stories_page-------------------------------------)
 
+### Table of Contents
+- [Blog post series for the project](#medium-article-series)
+- [Notebooks and Code for the project](#notebooks-and-code)
+- [Web app showcasing the project](#the-streamlit-web-app)
+- [Screenshots of the app in action](#)
+- [Run the app on your machine](#steps-to-build-and-run-the-streamlit-web-app)
+
 ### Medium Article Series
 This project began with a viral article about my first experience with Fastai. Then it evolved. Troughout these tutorials, I write about:
 - [Transfer learning for image classification](https://towardsdatascience.com/a-fast-introduction-to-fastai-my-experience-b18d4457f6a5?source=your_stories_page-------------------------------------)
