@@ -6,12 +6,16 @@ An end-to-end deep learning image classifier app built with Fastai and Pytorch.
 
 The notebooks contain the code from the articles from the series: [A Fast Introduction to Fastai-My Experience.](https://towardsdatascience.com/a-fast-introduction-to-fastai-my-experience-b18d4457f6a5?source=your_stories_page-------------------------------------)
 
+---
+
 ### Table of Contents
 - [Blog post series for the project](#medium-article-series)
 - [Notebooks and Code for the project](#notebooks-and-code)
 - [Web app showcasing the project](#the-streamlit-web-app)
 - [Screenshots of the app in action](#screenshot-of-the-app-in-action)
 - [Run the app on your machine](#steps-to-build-and-run-the-streamlit-web-app)
+
+---
 
 ### Medium Article Series
 This project began with a viral article about my first experience with Fastai. Then it evolved. Troughout these tutorials, I write about:
@@ -23,7 +27,7 @@ This project began with a viral article about my first experience with Fastai. T
 - [Making the frontend of the project easily with streamlit](https://towardsdatascience.com/a-guide-to-streamlit-frontend-for-data-science-made-simpler-c6dda54e3183?source=your_stories_page-------------------------------------)
 - [Containerizing the app with Docker](https://pub.towardsai.net/how-to-dockerize-your-data-science-project-a-quick-guide-b6fa2d6a8ba1?source=your_stories_page-------------------------------------)
 
-
+---
 
 ### Notebooks and code
 The ipynb files are as follows: 
@@ -37,10 +41,12 @@ The Folder **RockPaperScissorsClassification** contains:
 1. An interactive web app made with streamlit with the ability to run image classification on any uploaded image. 
 2. Contanerising the streamlit app with Docker.
 
+---
 
 ### The streamlit web app
 The web app built through streamlit is now live. The code is located in [RockPaperScissorsClassification](https://github.com/yashprakash13/RockPaperScissorsFastAI/tree/main/RockPaperScissorsClassification) folder. 
 
+---
 ### Screenshot of the app in action
 ![](https://github.com/yashprakash13/RockPaperScissorsFastAI/blob/main/screenshots/Screenshot%202021-02-16%20at%2011.24.57%20AM.png)
 
