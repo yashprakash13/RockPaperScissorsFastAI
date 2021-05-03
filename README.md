@@ -1,4 +1,4 @@
-## Rock Paper Scissors Image Classification with FastAI
+# Rock Paper Scissors Image Classification with FastAI
 ![](https://img.shields.io/badge/Powered%20by-Python%203.9.1-red?style=for-the-badge)
 ![](https://img.shields.io/badge/Built%20with-Fastai-brightgreen?style=for-the-badge) ![](https://img.shields.io/badge/-streamlit-orange?style=for-the-badge) ![](https://img.shields.io/badge/-Docker-blue?style=for-the-badge)
 
